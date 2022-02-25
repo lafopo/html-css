@@ -1,0 +1,18 @@
+p {
+    color: brown;
+    font-size: 30px;
+}
+
+/* clase */
+
+.parrafo {
+    color: blue;
+}
+
+/* id */
+
+#texto {
+    color: blueviolet;
+    font-size: 30px;
+    contain: content;
+}
