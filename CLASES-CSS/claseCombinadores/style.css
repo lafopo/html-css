@@ -1,3 +1,7 @@
-h2 + p {
+
+div p {
     color: red;
 }
+/* article > p {
+    color: blue;
+} */
