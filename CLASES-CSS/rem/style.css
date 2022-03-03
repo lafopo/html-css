@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;
+}
+p {
+    font-size: 7rem;
+}
+main > p {
+    font-size: 10rem;
+    color: brown;
+}
