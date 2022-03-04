@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#one {
+    background-color: aqua;
+}
+#img {
+    box-sizing: content-box;
+}
+#two {
+    background-color: rgb(53, 197, 241);
+    position: relative;
+    bottom: 15px;
